@@ -16,7 +16,7 @@ type RingProgressProps = {
   progress: number; // Progress should be a value between 0 and 1
 };
 
-const color = '#EE0F55';
+const color = '#e31b4b';
 
 const RingProgress = ({
   radius = 150,
